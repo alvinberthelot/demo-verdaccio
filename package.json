@@ -1,0 +1,24 @@
+{
+  "name": "demo-verdaccio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"\nSorry no tests, it's just a demo ¯_(ツ)_/¯\n\""
+  },
+  "dependencies": {
+    "hello-world-emilyong": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinberthelot/demo-verdaccio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvinberthelot/demo-verdaccio/issues"
+  },
+  "homepage": "https://github.com/alvinberthelot/demo-verdaccio#readme"
+}
